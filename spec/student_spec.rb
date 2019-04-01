@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'spec_helper' 'pry'
 
 describe 'School' do
   before :each do
